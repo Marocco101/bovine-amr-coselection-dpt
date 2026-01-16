@@ -37,12 +37,7 @@ Contrary to the co-selection hypothesis, **no significant correlation** was foun
 ![Tetracycline 2024](correlation_plot_tetra_2024%20copy.jpg)
 
 ## Discussion 
-The consistent lack of correlation in aggregated regional data empahasizes the **"Ecological Challenge"** of macroscopic surveillance. It suggests that mechanisms of chromosomal integration of mobile genetic elements are invisible to current monitoring strategies. Also, the lack of correlation with antibiotic usage indicates that resistance is no longer driven by co-selection pressure, but has likely stabilized via chromosomal integration. These support the need for the genomic approach to be adopted to the current surveillance system as proposed in my PhD proposal. 
-
-## Files
-- `data/`: Cleaned CSV datasets.
-- `scripts/`: R analysis scripts.
-- `plots/`: Generated correlation scatter plots.
+The consistent lack of significant correlation in aggregated regional data underscores the 'ecological challenge' associated with macroscopic surveillance. Specifically, an intriguing inversion was observed in the correlation trends: while the 2019 data hinted at traditional plasmid-mediated co-selection with a positive trend, the 2024 data suggest a 'decoupling' of these resistances with a negative trend. This implies that colistin resistance is no longer primarily driven by external co-selection pressure from alternative antibiotics. Instead, it has likely stabilised via the chromosomal integration of mobile genetic elements — a mechanism that renders resistance independent of antibiotic usage and invisible to current monitoring strategies. This transition clearly demonstrates the importance of the genomic approach I suggested in my PhD project, which aims to identify the stabilising mechanisms of mcr genes in the routine surveillance.
 
 ---
 *Author: Makiko Fujita*
