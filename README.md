@@ -29,12 +29,12 @@ Contrary to the co-selection hypothesis, **no significant correlation** was foun
 | **2019** | Colistin vs Tetracycline | 0.28 | 0.13 | No Correlation |
 
 ### TMP-SMX vs Colistin
-![TMP-SMX 2019](correlation_plot_tmp_2019%20copy.jpg)
+![TMP-SMX 2019](correlation_plot_tmp_2019_copy.jpg)
 ![TMP-SMX 2024](correlation_plot_tmp_2024%20copy.jpg)
 
 ### Tetracycline vs Colistin
 ![Tetracycline 2019](correlation_plot_tetra_2019_copy.jpg)
-![Tetracycline 2024](correlation_plot_tetra_2024_copy.jpg)
+![Tetracycline 2024](correlation_plot_tetra_2024%20copy.jpg)
 
 ## 1) Analysis of the relationship with TMP-SMX (trimethoprim-sulfamethoxazole)
 
