@@ -1,4 +1,4 @@
-# Project：Preliminary Ecological Analysis
+# [WP2 Framework] Spatial Correlation Analysis: Department-Level Resistance Dynamics
 
 ## Overview
 This repository contains the preliminary ecological analysis for **Preliminary Ecological Analysis**. 
