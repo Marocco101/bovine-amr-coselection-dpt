@@ -63,4 +63,4 @@ The statistical decoupling observed between colistin resistance and other agents
 The results of this preliminary study suggests that surveillance must shift its focus from simple drug-usage correlations to broader ecological transmission pathways, as proposed in my PhD thesis proposal. Factors such as the transport of livestock manure and subsequent soil and water contamination likely act as silent vectors for these resistant determinants. As these complex environmental interactions cannot be captured by linear correlation models, the second phase of my PhD study will employ a Bayesian network model. This will enable us to quantify the probabilistic relationships between manure management, environmental reservoirs and resistance persistence, thus overcoming the limitations of current macroscopic monitoring.
 
 ---
-*Author: Makiko Fujita*
+*Author: Makiko Fujita-Suzanne*
